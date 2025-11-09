@@ -88,7 +88,7 @@ Example Response
 Your backend API is deployed and live on Render 🎉
 
 Base URL:
-👉 https://stock-watchlist-api.onrender.com
+👉 https://stock-watchlist-api.onrender.com/api/stocks
 
 Available Endpoints:
 
@@ -101,7 +101,7 @@ The first request may take 30–50 seconds to wake up.
 
 ## Live Website URL
 
-https://stock-watchlist-api.onrender.com
+https://stock-watchlist-api.onrender.com/api/stocks
 
 ## GitHub Repository
 
